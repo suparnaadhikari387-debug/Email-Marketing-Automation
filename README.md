@@ -3,7 +3,8 @@ NAME:SUPARNA ADHIKARI INTERN ID:CITS8784
 DOMAIN: DIGITAL MARKETING DURATION:12 WEEKS
 MENTOR:NEELA SANTOSH KUMAR
 DESCRIPTION: Task-1:Email Marketing Automation
-📧 Email Marketing Automation
+
+ 📧 Email Marketing Automation
 
 1. Project Overview
 
