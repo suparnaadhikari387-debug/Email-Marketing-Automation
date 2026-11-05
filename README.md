@@ -155,7 +155,7 @@ MODE: TEST MODE (No emails were sent)
 
 Here is the output of my Email Marketing Automation project.
 
-# [Project Output](output1.png and output2.png)
+## [Email Marketing Automation Output](screenshots/output.png)
 9. Security
 
 - Never share your ".env" file.
